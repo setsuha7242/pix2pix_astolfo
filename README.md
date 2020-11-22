@@ -1,6 +1,6 @@
 # pix2pixを動かした
 
-基本的には[pix2pixを理解したい](https://qiita.com/mine820/items/36ffc3c0aea0b98027fd)をそのまま動かした.
+基本的には[pix2pixを理解したい(Qiita記事)](https://qiita.com/mine820/items/36ffc3c0aea0b98027fd)をそのまま動かした.
 
 ## 実際に動かす
 ### 下処理
